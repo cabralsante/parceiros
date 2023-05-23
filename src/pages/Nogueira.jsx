@@ -1,9 +1,8 @@
 import { useRef } from "react";
-import { AppContainer, AppImageContainer, AppSubtitle, AppVideo, AppVideoDescription } from "./NogueiraStyles"
+import { AppContainer, AppImageContainer, AppSubtitle, AppVideo, AppVideoDescription } from "../components/PartnerStyles"
 import video from "../assets/video.mp4"
-import DentalLogo from '../assets/dentalsante.png'
-import NogueiraLogo from '../assets/nogueira.png'
-import '../assets/fonts/font.css'
+import DentalLogo from '../assets/dentalsante2.png'
+import NogueiraLogo from '../assets/nogueira2.png'
 
 const Nogueira = () => {
 
