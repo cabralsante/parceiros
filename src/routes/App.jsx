@@ -5,6 +5,7 @@ import Personal from '../pages/Personal';
 import Ultra from '../pages/Ultra';
 import QPilates from '../pages/QPilates';
 import FabiaRoberta from '../pages/FabiaRoberta';
+import CiecPE from '../pages/CiecPE';
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <Route path="/ultrafitness" element={<Ultra />} />
       <Route path="/qpilates" element={<QPilates />} />
       <Route path="/fabiaroberta" element={<FabiaRoberta />} />
+      <Route path="/ciecpe" element={<CiecPE />} />
     </Routes>
   )
 

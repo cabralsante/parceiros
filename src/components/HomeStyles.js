@@ -8,12 +8,8 @@ export const AppImageContainer = styled.div`
 
     & > img {
         background: #fff;
-        width: 30%;
-        height: 30%;
-    }
-
-    & > img:nth-child(2) {
-        flex-basis: 40%;
+        width: 70%;
+        height: 70%;
     }
 
     @media (max-width: 768px) {
